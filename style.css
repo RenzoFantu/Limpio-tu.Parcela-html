@@ -34,10 +34,18 @@ body {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+    background-color: #2F3129;
 }
 
-.article-text {
+.article-text1 {
     width: 50vh;
+    background-color: #2F3129;
+    color: #E4AF3D;
+    
+}
+
+.article-img1{
+    background-color: #2F3129;
 }
 
 .img1 {
@@ -56,6 +64,7 @@ body {
     text-decoration: none;
     transition: 0.5s;
     object-fit: cover;
+    background-color: #2F3129;
 }
 
 .article2 {
@@ -63,6 +72,39 @@ body {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+    background-color: #E4AF3D;
+    color: #2F3129;
+
+}
+
+.article-text2 {
+    width: 50vh;
+    background-color: #E4AF3D;
+    color: #2F3129;
+    
+}
+
+.article-img2{
+    background-color: #E4AF3D;
+}
+
+.img2 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 40px;
+    margin: 20px;
+    width: 40vh;
+    height: 40vh;
+    color: white;
+    font-weight: 900;
+    text-decoration: none;
+    transition: 0.5s;
+    object-fit: cover;
+    background-color: #E4AF3D;
 }
 
 
