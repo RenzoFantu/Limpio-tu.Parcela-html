@@ -78,6 +78,18 @@ body {
 .logo {
     width: 10vh;
 }
+.img-paisajes-container{
+    display: flex;
+    flex-direction: row;
+    
+    
+
+}
+.img-paisajes{
+    width: 33.3vh;
+    
+    
+}
 
 /* footer */
 
@@ -87,6 +99,7 @@ body {
     }
     .footer {
         background-color: #F2D22B;
+        
        
     }
     .footer-row {
