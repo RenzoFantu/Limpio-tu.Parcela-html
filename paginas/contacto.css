@@ -181,6 +181,7 @@ form button:hover,
     .footer-row {
         display: flex;
         flex-wrap: nowrap;
+        padding: 20px;
     }
     .footer-links{
         
@@ -215,6 +216,8 @@ form button:hover,
     .social-link {
         display: flex;
         padding: 10px;
+        color: rgba(255, 255, 255, 0.2);
+        
     }
     .footer-links ul{
         padding: 0;
@@ -228,11 +231,11 @@ form button:hover,
         text-align: center;
         line-height: 40px;
         border-radius: 50%;
-        color: gray;
+        color: rgba(255, 255, 255, 0.2);
     
     }
     .social-link a:hover {
-        background-color: rgb(224, 224, 224);
+        background-color: rgba(255, 255, 255, 0.2);
     }
     @media (max-width: 768px) {
         .footer-row {
