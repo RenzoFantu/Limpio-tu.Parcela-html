@@ -1,13 +1,14 @@
 *{
     margin: 0;
     padding: 0;
-    
     font-family: "Tomorrow", sans-serif; 
     color: white;
 }
 body{
     
     box-sizing: border-box;
+    
+    
     
 }
 .navbar {
@@ -31,10 +32,12 @@ body{
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
+    padding: 20px !important;
+    gap: 10px !important; 
+    
     /* display: grid !important; */
     /* grid-template-columns: repeat(2,50%) !important;
-    padding: 20px !important;
-    gap: 10px !important; */
+    
     /* width: 1000px !important; */
 }
 .box-info{
@@ -211,6 +214,7 @@ form button:hover,
     }
     .social-link {
         display: flex;
+        padding: 10px;
     }
     .footer-links ul{
         padding: 0;
@@ -254,7 +258,9 @@ form button:hover,
         text-align: center;
         font-size: small;
         color: rgb(151, 151, 151);
+        margin: 0;
     }
     ul{
         list-style-type: none;
     }
+    
