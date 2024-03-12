@@ -192,7 +192,9 @@ form button {
 
 form button:hover,
 .links a:hover {
-    background-color: #FFFF2D;
+    background-color: #fefe63;
+    box-shadow: 1px 1px 10px #FFFF2D;
+    
 }
 /* footer */
 
