@@ -58,7 +58,7 @@ body {
     color: #fff;
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    gap: 25px;
     width: 50vh;
 }
 @media (max-width:390px){
@@ -75,7 +75,7 @@ body {
 .data {
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 20px;
 }
 
 @media (max-width: 300px) {
