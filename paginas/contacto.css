@@ -63,7 +63,7 @@ body {
 }
 @media (max-width:877px){
     .box-info{
-        gap:25px;
+        gap:10px ;
     }
 }
 
