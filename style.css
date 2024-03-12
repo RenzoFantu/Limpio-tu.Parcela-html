@@ -170,6 +170,7 @@ video {
 
 .navbar-toggler {
     color: #FFFF2D !important;
+    border: 0 !important;
 }
 
 .logo {
