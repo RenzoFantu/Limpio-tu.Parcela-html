@@ -1,13 +1,12 @@
 *{
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family: "Tomorrow", sans-serif; 
     
 }
 body{
-    
     box-sizing: border-box;
-    
     
     
 }
@@ -38,12 +37,18 @@ body{
     background-repeat: no-repeat;
     padding: 20px !important;
     gap: 10px !important; 
+    height: 100vh;
     
     /* display: grid !important; */
     /* grid-template-columns: repeat(2,50%) !important;
     
     /* width: 1000px !important; */
 }
+/* @media (max-width = 1132px){
+    .container-div-contacto{
+        height: 100vh;
+    }
+} */
 .box-info{
     color: #fff;
     display: flex;
@@ -275,10 +280,7 @@ form button:hover,
             justify-content: center;
         }
     }
-    hr {
-        width: 100vh;
-        margin: auto;
-    }
+   
     .texto-derechos {
         
         text-align: center;
