@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: "Tomorrow", sans-serif;
-    background-color: #E4AF3D;
+    background-color: #FFFF2D;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 .navbar {
-    background-color: #E4AF3D;
+    background-color: #FFFF2D;
     position: sticky !important;
     top: 0 !important;
     z-index: 100;
@@ -40,7 +40,7 @@ body {
 .article-text1 {
     width: 50vh;
     background-color: #2F3129;
-    color: #E4AF3D;
+    color: #FFFF2D;
     padding-top: 10px;
     
 }
@@ -74,7 +74,7 @@ body {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    background-color: #E4AF3D;
+    background-color: #FFFF2D;
     color: #2F3129;
     
     
@@ -83,7 +83,7 @@ body {
 
 .article-text2 {
     width: 50vh;
-    background-color: #E4AF3D;
+    background-color: #FFFF2D;
     color: #2F3129;
     padding-top: 10px;
     padding-left: 0;
@@ -98,7 +98,7 @@ body {
 }
 
 .article-img2{
-    background-color: #E4AF3D;
+    background-color: #FFFF2D;
 }
 
 .img2 {
@@ -118,7 +118,7 @@ body {
     text-decoration: none;
     transition: 0.5s;
     object-fit: cover;
-    background-color: #E4AF3D;
+    background-color: #FFFF2D;
 }
 
 .article3 {
@@ -132,7 +132,7 @@ body {
 .article-text3 {
     width: 50vh;
     background-color: #2F3129;
-    color: #E4AF3D;
+    color: #FFFF2D;
     padding-top: 10px;
     
     
@@ -169,7 +169,7 @@ video {
 
 
 .navbar-toggler {
-    color: #E4AF3D !important;
+    color: #FFFF2D !important;
 }
 
 .logo {
@@ -195,7 +195,7 @@ video {
     margin: 0 auto;
     }
     .footer {
-        background-color: #F2D22B;
+        background-color: #FFFF2D;
         
        
     }
@@ -249,7 +249,7 @@ video {
         text-align: center;
         line-height: 40px;
         border-radius: 50%;
-        color: gray;
+        color: black !important;
     
     }
     .social-link a:hover {
