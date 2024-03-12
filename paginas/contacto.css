@@ -18,6 +18,10 @@ body{
     z-index: 100;
 
 }
+.navbar-toggler {
+    color: #FFFF2D !important;
+    border: 0 !important;
+}
 .logo {
     width: 10vh;
 }
